@@ -1,6 +1,6 @@
 # Extract CNPJ data
 
-A simple script to extract CNPJ data based on a column value. The extracted CNPJ data for all Brazil is about 90 GB. This script unzipped and extracted all lines with a specific CNAE code in about 45 min.
+A simple script to extract CNPJ data based on a column value. The unzipped CNPJ data for all Brazil is about 90 GB. This script unzipped and then extracted all lines with a specific CNAE code in about 45 min.
 
 ## Requirements
 
