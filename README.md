@@ -1,6 +1,6 @@
 # Extract CNPJ data
 
-A simple script to extract CNPJ data based on a column value.
+A simple script to extract [public CNPJ (Brazilian business tax)](http://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj) data based on a column value.
 
 The unzipped CNPJ data for all Brazil is about 90 GB. This script unzipped and then extracted all lines with a specific CNAE code in about 45 min on my laptop.
 
