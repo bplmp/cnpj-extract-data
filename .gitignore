@@ -5,3 +5,4 @@ F.*
 *.bak
 extracted-lines.txt
 sample
+*.csv
