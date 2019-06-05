@@ -9,7 +9,7 @@ The unzipped CNPJ data for all Brazil is about 90 GB. This script unzipped and t
 ## Requirements
 
 - [GNU Parallel](https://www.gnu.org/software/parallel/) for parallel processing, since the file is so large.
-- [7zip](https://www.7-zip.org/) (recommended) for extracting data zip file. I had to use 7zip because file seemed to be corrupted.
+- [7zip](https://www.7-zip.org/) (recommended) to extract the data zip file. I had to use 7zip because the file seemed to be corrupted.
 
 ### Installation
 
